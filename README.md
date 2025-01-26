@@ -43,6 +43,7 @@ Após rodar o notebook ou o script, explore os clusters segmentados e os insight
 Estrutura do Projeto
 
 agrupamento-clientes-pagamento-dividas/
+
 ├── data/
 │   └── customer_data.csv          # Arquivo de dados dos clientes
 ├── analysis/
