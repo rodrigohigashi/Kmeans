@@ -50,7 +50,9 @@ customer-segmentation-debt-repayment/
 │   └── clustering_analysis.py  # Código e análise de agrupamento
 ├── requirements.txt            # Lista de dependências
 └── README.md                   # Documentação do projeto
+
 Lições Aprendidas
+
 O K-Means clustering é uma técnica eficaz para identificar grupos semelhantes de clientes com base nos comportamentos de pagamento.
 O pré-processamento e limpeza dos dados é fundamental para obter um agrupamento preciso e significativo.
 O monitoramento regular dos segmentos de clientes pode melhorar as estratégias de negócios e levar a decisões mais acertadas.
