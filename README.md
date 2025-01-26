@@ -42,14 +42,13 @@ Após rodar o notebook ou o script, explore os clusters segmentados e os insight
 
 Estrutura do Projeto
 
-customer-segmentation-debt-repayment/
-
+agrupamento-clientes-pagamento-dividas/
 ├── data/
-│   └── customer_data.csv       # Arquivo de dados dos clientes
+│   └── customer_data.csv          # Arquivo de dados dos clientes
 ├── analysis/
-│   └── clustering_analysis.py  # Código e análise de agrupamento
-├── requirements.txt            # Lista de dependências
-└── README.md                   # Documentação do projeto
+│   └── kmeans_analysis.py         # Código e análise de agrupamento com KMeans
+├── requirements.txt               # Lista de dependências
+└── README.md                      # Documentação do projeto
 
 Lições Aprendidas
 
