@@ -1,8 +1,11 @@
 Agrupamento de Clientes para Análise de Pagamento de Dívidas 📊
+
 Visão Geral do Projeto
+
 Neste projeto, focamos em usar dados de clientes para realizar agrupamento e segmentação, com o objetivo de analisar o comportamento deles em relação ao pagamento de dívidas. Ao aplicar técnicas de machine learning, como o agrupamento K-Means, buscamos identificar grupos de clientes com padrões semelhantes de pagamento, o que pode fornecer insights valiosos para estratégias direcionadas.
 
 Principais Funcionalidades:
+
 Segmentação de Clientes: Classificar os clientes em grupos distintos com base no comportamento de pagamento de dívidas.
 Agrupamento: Usar o K-Means para identificar padrões e relações dentro do conjunto de dados.
 Análise de Dados: Explorar e pré-processar os dados para entender as principais características.
