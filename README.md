@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📊 Agrupamento de Clientes para Análise de Pagamento de Dívidas
 📌 Visão Geral
 Este projeto utiliza machine learning para segmentar clientes com base no comportamento de pagamento de dívidas. Aplicamos o K-Means para identificar padrões e fornecer insights que podem ajudar em estratégias direcionadas de cobrança e marketing.
@@ -18,15 +19,11 @@ Scikit-Learn: Algoritmos de machine learning (K-Means)
 Matplotlib & Seaborn: Visualização de dados
 💻 Como Rodar o Projeto
 1️⃣ Clone o Repositório
-bash
-Copy
-Edit
+
 git clone https://github.com/seu-usuario/customer-segmentation-debt-repayment.git
 cd customer-segmentation-debt-repayment
 2️⃣ Crie o Ambiente Virtual e Instale as Dependências
-bash
-Copy
-Edit
+
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate  # Windows
@@ -34,23 +31,15 @@ pip install -r requirements.txt
 3️⃣ Execute a Análise
 Se estiver usando Jupyter Notebook:
 
-bash
-Copy
-Edit
 jupyter notebook
 Ou rode o script diretamente:
 
-bash
-Copy
-Edit
 python analysis/kmeans_analysis.py
 4️⃣ Visualize os Resultados
 Após rodar o código, explore os clusters gerados e analise os insights extraídos.
 
 📁 Estrutura do Projeto
-bash
-Copy
-Edit
+
 agrupamento-clientes-pagamento-dividas/
 ├── data/
 │   └── customer_data.csv         # Base de dados dos clientes
@@ -67,3 +56,4 @@ agrupamento-clientes-pagamento-dividas/
 🔹 Testar outros algoritmos, como DBSCAN ou clustering hierárquico.
 🔹 Criar um perfil detalhado dos clientes para estratégias mais personalizadas.
 🔹 Melhorar a visualização dos clusters para facilitar a interpretação dos insights.
+
